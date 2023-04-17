@@ -3,7 +3,7 @@
 int main()
 {
     int iM;
-    printf("Give an integer between 0-10: ");
+    printf("Give an integer in range 0-10: ");
     scanf("%d", &iM);
     printf("int\tsquare\tcube\n");
     int i;
